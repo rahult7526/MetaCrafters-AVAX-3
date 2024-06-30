@@ -1,4 +1,4 @@
-# MyToken Smart Contract
+# MyToken Smart Contract CONOR(CNR)
 The MyToken smart contract is an ERC-20 compatible token contract that allows users to mint, burn, transfer, and track the balance of tokens.
 
 ## Features
@@ -39,14 +39,14 @@ The contract address will be logged to the console upon successful deployment.
 ### Interacting with the Contract
 To interact with the deployed MyToken contract, you can use tools like Remix or write custom scripts using the Ethereum JavaScript libraries.
 
-#### Minting Tokens
-The contract owner can mint new tokens to a provided address using the mint function.
-
 #### Burning Tokens
 Any user can burn their own tokens using the burn function. This reduces the total supply.
 
 #### Transferring Tokens
 Users can transfer their tokens to another address using the transfer function.
+
+#### Minting Tokens
+The contract owner can mint new tokens to a provided address using the mint function.
 
 #### Testing
 To run the test suite for the MyToken contract, execute the following command:
@@ -63,4 +63,5 @@ This contract is based on the ERC-20 token standard.
 The contract was developed using the Hardhat framework.
 
 ## Author
-Kirtan Nahar
+Rahul Tiwary
+rahult7526@gmail.com
