@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Codesss\\MetaCrafters\\AVAX-3\\AVAX3\\contracts\\CR7_Token.sol": {
+      "lastModificationDate": 1719477898412,
+      "contentHash": "cc1c0523819c7c8ab832746eb5742379",
+      "sourceName": "contracts/CR7_Token.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "CR7_Token"
+      ]
+    }
+  }
+}
