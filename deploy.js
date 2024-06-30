@@ -6,7 +6,7 @@ async function main() {
   await mytoken.waitForDeployment();
 
   // Display the contract address
-  console.log(`CR7_Token token deployed to ${mytoken.target}`);
+  console.log(`CNR_Token token deployed to ${mytoken.target}`);
 }
 
 // Hardhat recommends this pattern to be able to use async/await everywhere
